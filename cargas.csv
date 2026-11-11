@@ -1,0 +1,41 @@
+nome;destino;valor;tipo
+Castanha;Norte;1;CARGA
+Borracha;Norte;2;CARGA
+Acai;Norte;3;CARGA
+Peixe;Norte;3;CARGA
+Madeira;Norte;4;CARGA
+Minerio;Norte;5;CARGA
+Petroleo;Norte;6;CARGA
+Erva-mate;Sul;1;CARGA
+Vinho;Sul;2;CARGA
+Arroz;Sul;3;CARGA
+Couro;Sul;3;CARGA
+Soja;Sul;4;CARGA
+Maquinas;Sul;5;CARGA
+Automoveis;Sul;6;CARGA
+Sal;Leste;1;CARGA
+Coco;Leste;2;CARGA
+Cacau;Leste;3;CARGA
+Algodao;Leste;3;CARGA
+Frutas;Leste;4;CARGA
+Tecidos;Leste;5;CARGA
+Eletronicos;Leste;6;CARGA
+Milho;Oeste;1;CARGA
+Feno;Oeste;2;CARGA
+Gado;Oeste;3;CARGA
+Leite;Oeste;3;CARGA
+Carne;Oeste;4;CARGA
+Graos;Oeste;5;CARGA
+Fertilizante;Oeste;6;CARGA
+Desvio Norte;Norte;0;DESVIO
+Desvio Sul;Sul;0;DESVIO
+Desvio Leste;Leste;0;DESVIO
+Desvio Oeste;Oeste;0;DESVIO
+Descarrilamento Norte;Norte;0;DESCARRILAMENTO
+Descarrilamento Sul;Sul;0;DESCARRILAMENTO
+Descarrilamento Leste;Leste;0;DESCARRILAMENTO
+Descarrilamento Oeste;Oeste;0;DESCARRILAMENTO
+Guindaste Norte;Norte;0;GUINDASTE
+Guindaste Sul;Sul;0;GUINDASTE
+Guindaste Leste;Leste;0;GUINDASTE
+Guindaste Oeste;Oeste;0;GUINDASTE
