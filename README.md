@@ -1,6 +1,7 @@
 # Jogo-Ferrovia
-**Trabalho de Estrutura de Dados (ADT, Circular Queue, Stack)
-**
+**Trabalho de Estrutura de Dados (ADT, Circular Queue, Stack)**
+
+
 Em uma malha ferroviária, de 2 a 4 maquinistas disputam contratos de entrega. Cada maquinista monta
 um trem: os vagões são engatados no fim, e só o vagão da frente pode ser desengatado para entrega. As
 cargas saem de um depósito comum, onde os contêineres ficam empilhados, e as cargas entregues ou
